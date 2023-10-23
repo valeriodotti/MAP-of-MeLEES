@@ -25,5 +25,7 @@ the Global Methane Pledge initiative launched at COP 26 in 2021 in Glasgow with 
 reduction initiatives call for urgent policy intervention.
 
 MAP-of-MeLEES aims to meet two measurable and verifiable goals: 
-i) measure CH4 emissions of the European power sector,
-ii) allocate them to each power plant and ii) price such emissions within the EU ETS.
+
+i. measure CH4 emissions of the European power sector,
+
+ii. allocate them to each power plant and ii) price such emissions within the EU ETS.
