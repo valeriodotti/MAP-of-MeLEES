@@ -17,6 +17,8 @@ MAP-of-MeLEES aims to bring together researchers from two Italian universities. 
 
 * [Gabriele Asta](https://www.unive.it/data/persone/25535245) is a tenure-track assistant professor of International Law, whose expertise lies in the jurisdiction of International Courts and Tribunals and the analysis of their rulings. He has published in Rivista di Diritto Internazionale, Studi sull’Integrazione Europea and many others. The last two profiles meet the specific need of the project of informing the policy design of WTO and EU Law.
 
+* [Jonas Werth](https://www.unive.it/data/persone/28547727) is a PostDoctoral Researcher at at Ca' Foscari University of Venice. He is completing a Ph.D. in Economics from BI Norwegian Business School. His research interest lies in environmental economics, and political economy. Throughout his doctorate degree he build an expertise in applied industrial organization, the structural estimation of dynamic games, and the handling of large data sets to estimate such structural models.
+
 ## University of Milan
 
 * [Luca Rossini](https://rossiniluca.github.io/web/) is an Associate professor of Statistics at the University of Milan and a Senior Researcher at Fondazione Eni Enrico Mattei. He is the Co-Principal Investigator and head of the local unit of the MNEMET project. His research interests span Bayesian inference; time series analysis and forecasting techniques; energy economics and novel nonlinear models. He has published in leading peer-reviewed journals such as the Journal of Business and Economic Statistics; Journal of Econometrics; International Journal of Forecasting and Annals of Applied Statistics.
